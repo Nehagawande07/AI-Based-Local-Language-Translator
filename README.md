@@ -49,22 +49,6 @@ The **AI-Based Local Language Translator** is a smart application designed to tr
 
 ---
 
-## 📂 Project Structure
-
-```
-ai-language-translator/
-│── app.py
-│── translator.py
-│── speech_module.py
-│── requirements.txt
-│── static/
-│── templates/
-│── models/
-│── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository:
